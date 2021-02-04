@@ -21,6 +21,8 @@
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "mongoose": "^5.11.14"
+    "mongoose": "^5.11.14",
+    "netlify-lambda": "^2.0.3",
+    "serverless-http": "^2.7.0"
   }
 }
